@@ -1,0 +1,30 @@
+
+
+
+#poptart{
+ display: block;
+ margin: auto;
+ width: 70%
+}
+h1{
+    text-align:center;
+}
+body{
+    font-family: 'Mali';
+
+}
+#intro{
+    font-size: 25px;
+    text-align: left;
+}
+#title{
+    font-size: 59px;
+}
+#coco{
+    font-size: 50px;
+    font-weight: bold;
+}
+img{
+    width:300px;
+    height: auto;
+}

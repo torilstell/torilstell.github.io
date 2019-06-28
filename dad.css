@@ -1,0 +1,20 @@
+#poptart{
+    position: relative;
+    top: 0px;
+    left: 700px;
+    
+    }
+    h1{
+        text-align:center;
+    }
+    body{
+        font-family: 'Mali';
+    
+    }
+    #intro{
+        font-size: 25px;
+        text-align: left;
+    }
+    #spicy{
+        font-size: 43px;
+    }

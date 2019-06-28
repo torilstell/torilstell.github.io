@@ -1,0 +1,39 @@
+#heading{
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+
+img {
+    width: 30%;
+    height: auto;
+    border: solid black 5px;
+}
+
+.by{
+    text-align: center;
+}
+body{
+    font-family: 'Shadows Into Light';
+}
+#notes{
+    font-size: 45px;
+   
+ } 
+
+.col img {
+    width: 100%;
+    position: relative;
+    top: 70px;
+    
+}
+
+#about-cookie{
+    font-size: 30px
+}
